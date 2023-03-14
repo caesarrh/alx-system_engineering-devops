@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tr 'a-zA-Z' 'n-za-mN-ZA-M'
+=======
+tr'a-zA-Z''n-za-mN-ZA-M'
+>>>>>>> a214a3953ac32a30012852a30bb1af58d80ac52b
